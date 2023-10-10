@@ -1,0 +1,11 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\bin\Debug\_2.ListBox.exe.config
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\bin\Debug\_2.ListBox.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\bin\Debug\_2.ListBox.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\2. ListBox.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\2. ListBox.csproj.SuggestedBindingRedirects.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\_2.ListBox.Form1.resources
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\_2.ListBox.Properties.Resources.resources
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\2. ListBox.csproj.GenerateResource.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\2. ListBox.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\_2.ListBox.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong3_NguyenPhucThinh_22521415\2. ListBox\obj\Debug\_2.ListBox.pdb
